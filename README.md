@@ -1,4 +1,4 @@
-InfiniteFlight
-==============
+Infinite Flight
+===============
 
 Infinite Flight Public Repository
