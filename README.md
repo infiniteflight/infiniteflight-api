@@ -158,19 +158,19 @@ Toggle Autopilot :
 
 | Command  | Description  |
 |---|---|
-| `Autopilot.Toggle` | |
+| `Autopilot.Toggle` | Toggle autopilot |
 | `Autopilot.SetState` | |
-| `Autopilot.SetHeading` | |
-| `Autopilot.SetAltitude` | |
+| `Autopilot.SetHeading` | Heading |
+| `Autopilot.SetAltitude` | Altitude |
 | `Autopilot.SetVS` | Vertical Speed |
-| `Autopilot.SetSpeed` | |
+| `Autopilot.SetSpeed` | Speed |
 | `Autopilot.SetHeadingState` | |
 | `Autopilot.SetAltitudeState` | |
 | `Autopilot.SetVSState` | |
 | `Autopilot.SetSpeedState` | |
 | `Autopilot.SetApproachModeState` | |
-| `FlightPlan.AddWaypoints` | |
-| `FlightPlan.Clear` | |
+| `FlightPlan.AddWaypoints` | Add waypoints to flightplan |
+| `FlightPlan.Clear` | Clear flightplan |
 | `FlightPlan.ActivateLeg` | |
 
 ### Simulator Commands 
