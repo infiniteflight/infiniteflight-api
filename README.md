@@ -79,7 +79,7 @@ Following commands toggle the state of a light. Example :
 | Command  | Description  |
 |---|---|
 | `LandingLights` | Toggle landing lights |
-[comment]: <> (| `TaxiLights` | Toggle taxi lights |)
+| `TaxiLights` | Toggle taxi lights? |
 | `StrobeLights` | Toggle strobe lights |
 | `BeaconLights` | Toggle beacon lights |
 | `NavLights` | Toggle nav lights  |
