@@ -1,5 +1,7 @@
 # Infinite Flight Connect API Docs & Samples
 
+[API location](https://github.com/mlaban/IFCTest/tree/master/Infinite%20Flight%20Connector%20API)
+
 ## Connection 
 
  1. To enable Infinite Flight command server, check `Enable Infinite Flight Connect` in `Settings > General`
