@@ -1,6 +1,7 @@
 # Infinite Flight Connect API Docs & Samples
-
-[API location](https://github.com/mlaban/IFCTest/tree/master/Infinite%20Flight%20Connector%20API)
+## Sample apps
+- [Offical demo](https://github.com/mlaban/IFCTest/tree/master/Infinite%20Flight%20Connector%20API)
+- [Liveflight Connect](https://github.com/LiveFlightApp/Connect-Windows)
 
 ## Connection 
 
