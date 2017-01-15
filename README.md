@@ -5,8 +5,14 @@
  1. To enable Infinite Flight command server, check `Enable Infinite Flight Connect` in `Settings > General`
  2. Infinite Flight will broadcast UDP packets on port `15000` containing its own IP address and Port.
 Example message : 
-``` { "Address" : "192.168.0.11", "Port" : 10111 }```
+`{ "Address" : "192.168.0.11", "Port" : 10111 }`
+
  3. You must then establish a TCP connection on this given host and port
+
+## Get Airplane State 
+
+This special command will request the airplane state from Infinite Flight. Response will be received on the same socket :
+`{ "Command": "Airplane.GetState", "Parameters": []}`
 
 ## Command Messages 
 
