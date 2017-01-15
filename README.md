@@ -66,8 +66,8 @@ Commands to control various systems of the plane. Example, lower flaps down :
 | `PitchUp` | |
 | `PitchDown` | |
 | `ResetCommands` | |
-| `ElevatorTrimUp` | Trip elevator up |
-| `ElevatorTrimDown` | Trip elevator down |
+| `ElevatorTrimUp` | Trim elevator up |
+| `ElevatorTrimDown` | Trim elevator down |
 | `ThrottleUpCommand` | |
 | `ThrottleDownCommand` | |
 
