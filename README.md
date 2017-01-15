@@ -54,8 +54,8 @@ Commands to control various systems of the plane. Example, lower flaps down :
 | `ParkingBrakes` | Toggle parking brakes |
 | `FlapsDown` | Decrement flaps |
 | `FlapsUp` | Increment flaps |
-| `FlapsFullDown` | |
-| `FlapsFullUp` | |
+| `FlapsFullDown` | Set flaps full |
+| `FlapsFullUp` | Set flaps clean |
 | `Aircraft.SetFlapState` | TODO : provide example |
 | `Spoilers` | Switch between spoilers states (Off, Flight, Armed) |
 | `LandingGear` | Toggle landing gear  |
@@ -66,8 +66,8 @@ Commands to control various systems of the plane. Example, lower flaps down :
 | `PitchUp` | |
 | `PitchDown` | |
 | `ResetCommands` | |
-| `ElevatorTrimUp` | |
-| `ElevatorTrimDown` | |
+| `ElevatorTrimUp` | Trip elevator up |
+| `ElevatorTrimDown` | Trip elevator down |
 | `ThrottleUpCommand` | |
 | `ThrottleDownCommand` | |
 
@@ -78,11 +78,11 @@ Following commands toggle the state of a light. Example :
 
 | Command  | Description  |
 |---|---|
-| `LandingLights` | |
-| `TaxiLights` | |
-| `StrobeLights` | |
-| `BeaconLights` | |
-| `NavLights` |  |
+| `LandingLights` | Toggle landing lights |
+| `TaxiLights` | Toggle taxi lights |
+| `StrobeLights` | Toggle strobe lights |
+| `BeaconLights` | Toggle beacon lights |
+| `NavLights` | Toggle nav lights  |
 
 #### Camera 
 ##### Camera Commands
