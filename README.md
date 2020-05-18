@@ -5,6 +5,7 @@
 
 - [Offical demo](https://github.com/mlaban/IFCTest/tree/master/Infinite%20Flight%20Connector%20API)
 - [Liveflight Connect](https://github.com/LiveFlightApp/Connect-Windows)
+- [Demo - v2](https://github.com/carmichaelalonso/infiniteflightapi)
 
 ## Connect API - Version 2.0
 
